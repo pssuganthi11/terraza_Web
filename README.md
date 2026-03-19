@@ -36,7 +36,7 @@ Provide a smooth, personalized booking experience.
 ###  Requirements
 - Dashboard with:
   - Welcome message
-  - Summary cards (trips, wishlist, bookings)
+  - Summary cards (trips, bookings)
 - Advanced search with filters & sorting
 - Package details page:
   - Image gallery
