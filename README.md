@@ -1,7 +1,5 @@
-# 🌍 Terraza – Tourism Package Application UI Prompts
-
-This document provides structured UI design prompts for different user roles in the **Terraza Tourism Package Application**. These prompts can be used with design tools like Figma AI, Uizard, or for frontend development.
-
+# 🌍 Terraza – Tourism Package Application 
+-Terraza is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.
 ---
 
 ## 🟡 Guest User UI (Not Logged In)
@@ -9,8 +7,7 @@ This document provides structured UI design prompts for different user roles in 
 ### 🎯 Goal
 Encourage users to explore travel packages and motivate them to sign up for booking.
 
-### 🧠 Prompt
-Design a modern tourism web application UI for a guest (not logged-in) user.
+
 
 ### 📌 Requirements
 - Visually rich homepage with hero banner (images/video)
@@ -40,8 +37,7 @@ Design a modern tourism web application UI for a guest (not logged-in) user.
 ### 🎯 Goal
 Provide a smooth, personalized booking experience.
 
-### 🧠 Prompt
-Design a user dashboard UI for a logged-in tourism app user.
+
 
 ### 📌 Requirements
 - Dashboard with:
@@ -75,8 +71,7 @@ Design a user dashboard UI for a logged-in tourism app user.
 ### 🎯 Goal
 Help vendors manage packages and bookings efficiently.
 
-### 🧠 Prompt
-Design a vendor dashboard UI for a tourism package management system.
+
 
 ### 📌 Requirements
 - Dashboard with stats:
@@ -105,9 +100,6 @@ Design a vendor dashboard UI for a tourism package management system.
 ### 🎯 Goal
 Provide full system control and monitoring.
 
-### 🧠 Prompt
-Design an admin dashboard UI for a tourism application.
-
 ### 📌 Requirements
 - Dashboard with KPIs:
   - Users
@@ -120,10 +112,6 @@ Design an admin dashboard UI for a tourism application.
 - Reports (PDF/CSV download)
 - System alerts
 
-### 🎨 Design Style
-- Data-driven dashboard
-- Clean visualization
-- Minimal and efficient UI
 
 ---
 
