@@ -1,15 +1,15 @@
-# 🌍 Tourconn – Tourism Package Application 
+#  Tourconn – Tourism Package Application 
 <p>Terraza is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.</p>
 ---
 
-## 🟡 Guest User UI (Not Logged In)
+##  Guest User UI (Not Logged In)
 
-### 🎯 Goal
+###  Goal
 Encourage users to explore travel packages and motivate them to sign up for booking.
 
 
 
-### 📌 Requirements
+###  Requirements
 - homepage with hero banner (images/video)
 - Smart search bar (destination, date, travelers)
 - Filters:
@@ -26,14 +26,14 @@ Encourage users to explore travel packages and motivate them to sign up for book
 
 ---
 
-## 🟢 Logged-in User UI
+##  Logged-in User UI
 
-### 🎯 Goal
+###  Goal
 Provide a smooth, personalized booking experience.
 
 
 
-### 📌 Requirements
+###  Requirements
 - Dashboard with:
   - Welcome message
   - Summary cards (trips, wishlist, bookings)
@@ -55,14 +55,14 @@ Provide a smooth, personalized booking experience.
 
 ---
 
-## 🔵 Vendor UI
+##  Vendor UI
 
-### 🎯 Goal
+###  Goal
 Help vendors manage packages and bookings efficiently.
 
 
 
-### 📌 Requirements
+###  Requirements
 - Dashboard with stats:
   - Total packages
   - Bookings
@@ -79,12 +79,12 @@ Help vendors manage packages and bookings efficiently.
 
 ---
 
-## 🔴 Admin UI
+##  Admin UI
 
-### 🎯 Goal
+###  Goal
 Provide full system control and monitoring.
 
-### 📌 Requirements
+###  Requirements
 - Dashboard with KPIs:
   - Users
   - Vendors
