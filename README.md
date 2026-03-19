@@ -2,13 +2,13 @@
 <p>Tourconn is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.</p>
 ---
 
-## 🟡 Guest User UI (Updated)
+##  Guest User UI (Updated)
 
-### 🎯 Goal
+###  Goal
 Encourage users to explore travel packages with clear understanding of trip types and detailed itinerary.
 
 
-### 📌 Requirements
+###  Requirements
 - Visually rich homepage with hero banner (images/video)
 - Smart search bar (destination, date, travelers)
 
@@ -24,7 +24,7 @@ Encourage users to explore travel packages with clear understanding of trip type
 
 ---
 
-### 🔹 Filters
+###  Filters
 - Country
 - Budget
 - Duration
@@ -32,7 +32,7 @@ Encourage users to explore travel packages with clear understanding of trip type
 
 ---
 
-### 🔹 Featured Packages
+###  Featured Packages
 - Card layout with:
   - Image
   - Destination
