@@ -48,7 +48,6 @@ Provide a smooth, personalized booking experience.
   - Date picker
   - Pricing summary
 - My Trips section (upcoming, completed, cancelled)
-- Wishlist
 - Profile section
 - Notifications
 
