@@ -1,4 +1,4 @@
-# 🌍 Terraza – Tourism Package Application 
+# 🌍 Tourconn – Tourism Package Application 
 <p>Terraza is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.</p>
 ---
 
