@@ -66,7 +66,7 @@ Help vendors manage packages and bookings efficiently.
   - Total packages
   - Bookings
   - Revenue
-- Add/Edit package form (multi-step):
+- Add/Edit package form - multi-step maybe:
   - Details
   - Pricing
   - Itinerary
