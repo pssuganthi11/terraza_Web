@@ -1,29 +1,99 @@
 #  Tourconn – Tourism Package Application 
-<p>Terraza is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.</p>
+<p>Tourconn is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.</p>
 ---
 
-##  Guest User UI (Not Logged In)
+## 🟡 Guest User UI (Updated)
 
-###  Goal
-Encourage users to explore travel packages and motivate them to sign up for booking.
+### 🎯 Goal
+Encourage users to explore travel packages with clear understanding of trip types and detailed itinerary.
 
 
-
-###  Requirements
-- homepage with hero banner (images/video)
+### 📌 Requirements
+- Visually rich homepage with hero banner (images/video)
 - Smart search bar (destination, date, travelers)
-- Filters:
-  - Country
-  - Budget
-  - Duration
-  - Travel type
-- Featured travel packages (card layout: image, price, duration)
-- Popular destinations (image tiles, clickable)
-- Package preview (itinerary, highlights, images)
-- Login / Signup modal
-- Testimonials section
-- Footer (contact, social links, newsletter)
 
+### 🔹 Category Section (NEW)
+- Display trip categories:
+  - Group Trip 👥
+  - Family Trip 👨‍👩‍👧
+  - Solo Trip 🧍
+  - Honeymoon 💑
+  - Adventure 🏔️
+- Each category as clickable cards with icons/images
+- On click → filter packages based on category
+
+---
+
+### 🔹 Filters
+- Country
+- Budget
+- Duration
+- Travel type
+
+---
+
+### 🔹 Featured Packages
+- Card layout with:
+  - Image
+  - Destination
+  - Price
+  - Duration
+  - Category tag
+
+---
+
+###  Package Details Preview (ENHANCED)
+Each package should clearly show:
+
+####  Day-wise Plan (Itinerary)
+- Day 1: Arrival + sightseeing
+- Day 2: Activities (e.g., trekking, city tour)
+- Day 3: Checkout / return
+
+####  What’s Included
+- Hotel stay 🏨
+- Food 🍽️
+- Transport 🚗
+- Guide 🧭
+
+#### ❌ What’s Not Included
+- Personal expenses
+- Extra activities
+- Travel insurance
+
+#### ⚠️ Do’s & Don’ts
+- Do:
+  - Follow schedule
+  - Carry ID proof
+- Don’t:
+  - Miss reporting time
+  - Carry restricted items
+
+---
+
+### 🔹 Popular Destinations
+- Image grid with clickable locations
+
+---
+
+### 🔹 Authentication
+- Login / Signup modal
+
+---
+
+### 🔹 Testimonials & Footer
+- Reviews and contact info
+
+---
+
+
+### ⚙️ Goal
+Help users quickly understand:
+- Type of trip
+- What they will experience
+- What is included/excluded
+
+And encourage them to sign up for booking.
 ---
 
 ##  Logged-in User UI
