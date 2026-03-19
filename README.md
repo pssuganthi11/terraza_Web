@@ -10,7 +10,7 @@ Encourage users to explore travel packages and motivate them to sign up for book
 
 
 ### 📌 Requirements
-- Visually rich homepage with hero banner (images/video)
+- homepage with hero banner (images/video)
 - Smart search bar (destination, date, travelers)
 - Filters:
   - Country
