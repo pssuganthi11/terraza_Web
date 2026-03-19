@@ -1,5 +1,5 @@
 # 🌍 Terraza – Tourism Package Application 
--Terraza is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.
+<p>Terraza is a smart tourism platform that helps users discover, compare, and book travel packages while enabling vendors and admins to manage everything seamlessly in one place.</p>
 ---
 
 ## 🟡 Guest User UI (Not Logged In)
@@ -23,12 +23,6 @@ Encourage users to explore travel packages and motivate them to sign up for book
 - Login / Signup modal
 - Testimonials section
 - Footer (contact, social links, newsletter)
-
-### 🎨 Design Style
-- Modern, clean, travel-themed UI
-- Vibrant colors with large visuals
-- Smooth hover effects and animations
-- Fully responsive
 
 ---
 
@@ -58,11 +52,6 @@ Provide a smooth, personalized booking experience.
 - Profile section
 - Notifications
 
-### 🎨 Design Style
-- Clean dashboard layout
-- Sidebar or top navigation
-- Card-based UI
-- User-friendly navigation
 
 ---
 
@@ -87,11 +76,6 @@ Help vendors manage packages and bookings efficiently.
 - Booking requests panel (accept/reject)
 - Revenue dashboard (charts)
 - Profile management
-
-### 🎨 Design Style
-- Professional layout
-- Use tables, cards, charts
-- Clear action buttons
 
 ---
 
