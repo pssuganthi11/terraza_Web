@@ -11,14 +11,12 @@ Tourconn is a smart tourism platform that helps users discover, compare, and boo
   - Destination  
   - Budget  
   - Duration  
-  - Travel type (Group, Solo, Family, etc.)  
+  - Travel type (Group, Solo, Family)  
 - 📄 View basic package details:  
   - Overview  
   - Price  
   - Duration
   - Day-wise itinerary  
-- 🧭 View trip categories (Group, Solo, Family)  
-- 🌍 Explore popular destinations  
 - 🔐 Signup / Login to access full features  
 
 ---
@@ -39,7 +37,6 @@ Tourconn is a smart tourism platform that helps users discover, compare, and boo
   - Weather condition  
   - Rain probability
   - it may be api & historical report   
-- 💡 Smart travel tips based on weather  
 - 🔐 Secure authentication & session handling  
 
 ---
